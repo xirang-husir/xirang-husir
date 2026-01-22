@@ -1,10 +1,8 @@
 # Hi 👋, I'm Tengfeng Hu
 
-### A passionate Python developer
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xirang-husir&label=Profile views&color=0e75b6&style=flat" alt="xirang-husir" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xirang-husir&label=Profile views&color=0e75b6&style=flat" alt="xirang-husir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xirang-husir" alt="xirang-husir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xirang-husir" alt="xirang-husir" /></a> </p> -->
 
 - 🔭 I'm currently working on **https://www.ouc.edu.cn/**
 
