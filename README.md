@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xirang-husir" alt="xirang-husir" /></a> </p> -->
 
-- 🔭 I'm currently working on **https://www.ouc.edu.cn/**
+- 🔭 I'm currently studying on **https://www.ouc.edu.cn/**
 
 - 🌱 I'm currently learning **Multimodal Neuroimaging Analysis for Brain Disease Diagnosis.**
 
