@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Deep Learning,  Multimodal Fusion.**
 
-- 📫 How to reach me **m18784260709@163.com**
+- 📫 How to reach me **m18784260709@163.com** or **husir.3308@gmail.com**
 
 - ⚡ Fun fact **I can do this all day.**
 
