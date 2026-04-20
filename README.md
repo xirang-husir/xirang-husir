@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xirang-husir" alt="xirang-husir" /></a> </p> -->
 
-- 🔭 I'm currently studying at OUC **https://www.ouc.edu.cn/**.
+- 🔭 I'm currently studying at OUC **https://www.ouc.edu.cn/** and conducting research as a member of the [VMV Lab](https://ouc-cv-lab.github.io/).
 .
-- 🌱 I'm currently learning **Multimodal Neuroimaging Analysis for Brain Disease Diagnosis.**
+- 🌱 I'm currently learning **Multimodal Neuroimaging Analysis for Brain Disease prediction, diagnosis, and prognosis.**
 
 - 👯 I'm looking to collaborate on **Neuroimaging Dataset, Research on Multimodal Algorithms.**
 
 - 🤝 I'm looking for help with **The modality gap and imbalance problems in multimodal neuroimaging.**
 
-- 💬 Ask me about **Deep Learning,  Multimodal Fusion.**
+- 💬 Ask me about ** Brain Multimodal Imaging, Multimodal Assisted Diagnosis, Deep Learning.**
 
 - 📫 How to reach me **m18784260709@163.com** or **husir.3308@gmail.com**
 
