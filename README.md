@@ -18,14 +18,15 @@
 
 - ⚡ Fun fact **I can do this all day.**
 - 
-<h3 align="left">Connect with me</h3>
+<h3>Connect with me</h3>
 
 <p>
 <a href="https://github.com/xirang-husir">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
+
 <a href="https://kaggle.com/xirang_hu">
-  <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40"/>
 </a>
 </p>
 
