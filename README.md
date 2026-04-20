@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 <a href="https://kaggle.com/xirang_hu">
-<img src="https://skillicons.dev/icons?i=kaggle" width="40"/>
+  <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40"/>
 </a>
 </p>
 
