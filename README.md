@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xirang-husir" alt="xirang-husir" /></a> </p> -->
 
 - 🔭 I'm currently studying at [OUC](https://www.ouc.edu.cn/) and conducting research as a member of the [VMV Lab](https://ouc-cv-lab.github.io/).
-.
+  
 - 🌱 I'm currently learning **Multimodal Neuroimaging Analysis for Brain Disease prediction, diagnosis, and prognosis.**
 
 - 👯 I'm looking to collaborate on **Neuroimaging Dataset, Research on Multimodal Algorithms.**
