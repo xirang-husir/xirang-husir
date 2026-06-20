@@ -14,7 +14,7 @@
 
 - 💬 Ask me about ** Brain Multimodal Imaging, Multimodal Assisted Diagnosis, Deep Learning.**
 
-- 📫 How to reach me **m18784260709@163.com** or **husir.3308@gmail.com**
+- 📫 How to reach me: **hutengfeng@stu.ouc.edu.cn**.
 
 - ⚡ Fun fact **I can do this all day.**
 
