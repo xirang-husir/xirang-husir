@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently studying at [OUC](https://www.ouc.edu.cn/) and conducting research as a member of the [VMV(Vision& Medicine& Vanguard) Lab](https://ouc-cv-lab.github.io/).
   
-- 🌱 I'm currently learning **Multimodal Neuroimaging Analysis for Brain Disease prediction, diagnosis, and prognosis.**
+- 🌱 I'm currently learning **Brain-Computer Interface (BCI), Multimodal Neuroimaging Analysis for Brain Disease prediction, diagnosis, and prognosis.**
 
 - 👯 I'm looking to collaborate on **Neuroimaging Dataset, Research on Multimodal Algorithms.**
 
